@@ -1,6 +1,13 @@
 # aux-apple-unix-materials
 A collection or "dump" of materials, preferably "uuencoded" tar archives, ready for transfer to A/UX Apple Unix v3.1.1, as seen in AUXrunner.
 
+Videos demonstrating my experiments:
+
+https://youtu.be/GHqLQc5kGds
+
+https://youtu.be/nCx0J2H2S_s
+
+
 8th October 2025
 
 I discovered a "portable" Qemu-package called AUXrunner, a ready-to-run A/UX Apple Unix for macOS systems:
@@ -246,3 +253,8 @@ Chasing specifically: https://jagubox.gsfc.nasa.gov/aux/GNU_stuff/gcc-2.6.3v2.bi
 
 GCL 1.1 worked: https://ftp.gnu.org/gnu/gcl/old/
 Old, but NOT VERY old GNU stuff, unfortunately: https://ftp.gnu.org/gnu/
+
+AI Languages (including hqx archives for the Macintosh side of A/UX):
+
+https://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/lang/
+
